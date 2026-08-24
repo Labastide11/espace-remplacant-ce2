@@ -1,10 +1,11 @@
-/* Espace Remplaçant V1.1 — données lues depuis Progressions CE2 */
+/* Espace Remplaçant V1.2 — données lues depuis Progressions CE2 */
 (function(global){
 'use strict';
 const BASE='https://labastide11.github.io/progressions-ce2/';
 const FILES=[
   'emploi-du-temps-data-p1.js','emploi-du-temps-data-p2.js','emploi-du-temps-data-p3.js','emploi-du-temps-data-p4.js','emploi-du-temps-data-p5.js',
   'public-emploi-du-temps.js',
+  'dictees-ce2.js',
   'data/remplacant-programme.js','data/remplacant-cahier-journal.js','data/remplacant-infos-pratiques.js',
   'data/devoirs-p1.js','data/devoirs-p2.js','data/devoirs-p3.js','data/devoirs-p4.js','data/devoirs-p5.js'
 ];

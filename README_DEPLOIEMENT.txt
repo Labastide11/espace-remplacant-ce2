@@ -1,4 +1,4 @@
-ESPACE REMPLAÇANT CE2 — V1.1
+ESPACE REMPLAÇANT CE2 — V1.2
 
 Dépôt cible : espace-remplacant-ce2
 URL cible : https://labastide11.github.io/espace-remplacant-ce2/
@@ -8,6 +8,7 @@ Synchronisé depuis Progressions CE2 :
 - journée en un coup d’œil
 - cahier journal
 - devoirs P1 à P5
+- banque annuelle des dictées / DRAS / production d’écrit
 - infos pratiques
 
 Liste des élèves :
